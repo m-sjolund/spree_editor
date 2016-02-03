@@ -1,0 +1,9 @@
+---
+fi:
+  spree:
+    enable_rich_editor: Ota muotoilueditori käyttöön
+    rich_editor: Muotoilueditori
+    rich_editor_description: Muokkaa muotoilueditorin asetuksia.
+    rich_editor_engine: Muotoilueditorin moottori
+    rich_editor_ids: Editorin tunnisteet
+    rich_editor_ids_description: "Listaa tekstikenttien id-tunnisteet välilyönnein erotettuna"
